@@ -1,6 +1,6 @@
 {
-    "name": "ʙᴀᴅsᴘᴀᴍʙᴏᴛ",
-    "description": "Sᴘᴀᴍᴍɪɴɢ Bᴏᴛ Mᴀᴅᴇ Bʏ Bᴀᴅ Mᴜɴᴅᴀ @ll_BAD_MUNDA_ll ",
+    "name": "ᴠɪsɪʙʟᴇ sᴘᴀᴍ ʙᴏᴛ",
+    "description": "Sᴘᴀᴍᴍɪɴɢ Bᴏᴛ Mᴀᴅᴇ Bʏ @visible_XD ",
     "logo": "https://telegra.ph/file/57a3b5a2207620c55e070.jpg",
     "keywords": [
         "telegram",
@@ -10,7 +10,7 @@
         "badmunda",
         "Botspam"
     ],
-    "repository": "https://github.com/Badhacker98/LEGEND_SPAMBOT",
+    "repository": "https://github.com/Visible007/Visible_spam007",
     "website": "https://t.me/ll_BAD_MUNDA_WORLD_ll",
     "success_url": "https://t.me/ll_BAD_MUNDA_WORLD_ll",
     "env": {       
