@@ -2,9 +2,9 @@ from os import getenv
 
 from decouple import config
 
-APP_ID = getenv("APP_ID", "25742938")
+APP_ID = getenv("APP_ID", "12160204")
 
-API_HASH = getenv("API_HASH", "b35b715fe8dc0a58e8048988286fc5b6")
+API_HASH = getenv("API_HASH", "944053be988f83c2554a2b40429e90d7")
 
 HEROKU_APP_NAME = config("HEROKU_APP_NAME", None)
 HEROKU_API_KEY = config("HEROKU_API_KEY", None)
