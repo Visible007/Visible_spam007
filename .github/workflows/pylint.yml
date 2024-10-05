@@ -30,6 +30,6 @@ jobs:
           commit_message: 'legend fixed'
           commit_options: '--no-verify'
           repository: .
-          commit_user_name: Badhacker98
+          commit_user_name: @visible_XD
           commit_user_email: sukhwinerwarval50@gmail.com
           commit_author: badhacker98<sukhwinerwarval50@gmail.com>
