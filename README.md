@@ -1,7 +1,7 @@
-[![ʙᴀᴅᴍᴜɴᴅᴀsᴘᴀᴍʙᴏᴛ](https://telegra.ph/file/c26f985c3f59004bc9927.jpg)](https://github.com/Badhacker98/LEGEND_SPAMBOT)
+[![ʙᴀᴅᴍᴜɴᴅᴀsᴘᴀᴍʙᴏᴛ](https://telegra.ph/file/c26f985c3f59004bc9927.jpg)](https://github.com/Visible007/Visible_spam007.git) 
 
 <h1 align="center">
-<b> 『ʙᴀᴅ ʙᴏᴛ sᴘᴀᴍ』 </b>
+<b> 『ᴠɪsɪʙʟᴇ sᴘᴀᴍ ʙᴏᴛ』 </b>
 </h1>
 
 <h6 align="center">
@@ -136,7 +136,7 @@ python3 start.py
 
 </details>
 
-### > ᴍᴀᴅᴅ ʙʏ [⎯꯭̽🇨🇦꯭꯭ ⃪В꯭α꯭∂ ꯭м꯭υ꯭η∂꯭α_꯭آآ⎯꯭ ꯭̽🌸](https://t.me/ll_BAD_MUNDA_ll)
+### > ᴍᴀᴅᴅ ʙʏ [⎯꯭̽🇨🇦꯭꯭ ⃪ᴠɪsɪʙʟᴇ ɢʜᴏsᴛآآ⎯꯭ ꯭̽🌸](https://t.me/ll_BAD_MUNDA_ll)
 > 
 
 ### Contact :
