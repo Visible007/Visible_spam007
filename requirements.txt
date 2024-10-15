@@ -1,4 +1,6 @@
 heroku3
+cryptg
+telethon==1.33.1
 python-decouple
 pyrogram
 heroku3
